@@ -1,1 +1,1 @@
-# java-skeleton-sample
+# Java Clean Code Stuctures
